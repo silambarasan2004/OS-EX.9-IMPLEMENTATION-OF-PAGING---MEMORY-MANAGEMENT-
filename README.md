@@ -73,9 +73,7 @@ getch();
 
 ```
 ## OUTPUT:
-
-<img width="352" alt="image" src="https://github.com/AlluguriSrikrishnateja/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118343892/c305e589-49a9-48ce-8578-295f1c413346">
-
+<img width="352" alt="p1" src="https://github.com/silambarasan2004/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/119559917/d4885155-1acb-4c9e-afc5-e9efba47ffd6">
 
 ## RESULT:
 
