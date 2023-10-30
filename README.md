@@ -1,12 +1,12 @@
-# OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-
+## OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-
 
-AIM:
+## AIM:
 
  To write a c program to implement Paging technique for memory management.
 
 
 
-ALGORITHM:
+## ALGORITHM:
 
 1. Read all the necessary input from the keyboard.
 
@@ -28,7 +28,7 @@ ALGORITHM:
 
 7. Stop the process
 
-PROGRAM:
+## PROGRAM:
 ```
 #include<stdio.h>
 #include<conio.h>
@@ -72,11 +72,11 @@ getch();
 }
 
 ```
-OUTPUT:
+## OUTPUT:
 
 <img width="352" alt="image" src="https://github.com/AlluguriSrikrishnateja/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118343892/c305e589-49a9-48ce-8578-295f1c413346">
 
 
-RESULT:
+## RESULT:
 
 Thus the implementation of paging technique for memory management is executed successfully.
